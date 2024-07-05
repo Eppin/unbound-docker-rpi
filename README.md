@@ -6,6 +6,7 @@ Do you want this, but don't have a Pi? Check out the [non-ARM version](https://g
 
 ## Supported tags and respective `Dockerfile` links
 
+- [`1.20.0` (*1.20.0/Dockerfile*)](https://github.com/Eppin/unbound-docker-rpi/releases/tag/v1.20.0) *Not an official build, hosted on ghcr.io, see packages at the right side*
 - [`1.19.2`, `latest` (*1.19.2/Dockerfile*)](https://github.com/MatthewVance/unbound-docker-rpi/tree/master/1.19.2)
 - [`1.19.1`, (*1.19.1/Dockerfile*)](https://github.com/MatthewVance/unbound-docker-rpi/tree/master/1.19.1)
 - [`1.19.0`, (*1.19.0/Dockerfile*)](https://github.com/MatthewVance/unbound-docker-rpi/tree/master/1.19.0)
